@@ -1,6 +1,6 @@
 # CMPT726_Final_Project
 
-# Quadcopter stablization 
+# Automatic quadcopter launching under unstructured conditions
 
 ## Basic Requirement
 
