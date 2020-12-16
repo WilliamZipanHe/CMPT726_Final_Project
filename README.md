@@ -52,6 +52,10 @@ pip install -U rosdep rosinstall_generator wstool rosinstall six vcstools
    source /opt/ros/kinetic/setup.bash
    source path_to_catkin_ws/catkin_ws/devel/setup.bash
    ```
+   Source the setup.bash again.
+   ```
+   source ~/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/setup.bash
+   ```
 3.  Conda: command not found
    ```
    vim ~/.bashrc
