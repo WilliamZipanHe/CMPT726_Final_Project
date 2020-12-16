@@ -1,0 +1,8 @@
+prefix=/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/tf2_eigen
+
+Name: tf2_eigen
+Description: Description of tf2_eigen
+Version: 0.7.5
+Cflags: -I/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/src/geometry2/tf2_eigen/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: tf2

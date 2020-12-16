@@ -1,0 +1,8 @@
+prefix=/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/tf2_kdl
+
+Name: tf2_kdl
+Description: Description of tf2_kdl
+Version: 0.7.5
+Cflags: -I/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/src/geometry2/tf2_kdl/include -I/usr/include/eigen3 -I/opt/ros/kinetic/share/orocos_kdl/../../include
+Libs: -L${prefix}/lib /opt/ros/kinetic/lib/liborocos-kdl.so.1.3.2
+Requires: 

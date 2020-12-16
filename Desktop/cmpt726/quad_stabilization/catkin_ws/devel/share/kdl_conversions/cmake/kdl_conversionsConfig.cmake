@@ -1,0 +1,1 @@
+/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/kdl_conversions/share/kdl_conversions/cmake/kdl_conversionsConfig.cmake

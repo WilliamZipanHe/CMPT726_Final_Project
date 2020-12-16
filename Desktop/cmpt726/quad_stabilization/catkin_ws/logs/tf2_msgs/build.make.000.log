@@ -1,0 +1,87 @@
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_LookupTransformActionResult[0m
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_LookupTransformActionFeedback[0m
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_LookupTransformAction[0m
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_TFMessage[0m
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformActionFeedback
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformAction
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformActionResult
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_TFMessage
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_LookupTransformFeedback[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_LookupTransformActionGoal[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_FrameGraph[0m
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_LookupTransformGoal[0m
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformFeedback
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_LookupTransformResult[0m
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformActionGoal
+[35m[1mScanning dependencies of target _tf2_msgs_generate_messages_check_deps_TF2Error[0m
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_FrameGraph
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformGoal
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_LookupTransformResult
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _tf2_msgs_generate_messages_check_deps_TF2Error
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  1%] [34m[1mGenerating Javascript code from tf2_msgs/TFMessage.msg[0m
+[  3%] [34m[1mGenerating C++ code from tf2_msgs/TFMessage.msg[0m
+[  7%] [34m[1mGenerating Javascript code from tf2_msgs/LookupTransformAction.msg[0m
+[  7%] [34m[1mGenerating C++ code from tf2_msgs/LookupTransformAction.msg[0m
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/share/gencpp/cmake/../../../lib/gencpp/gen_cpp.py", line 41, in <module>
+    import genmsg.template_tools
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/genmsg/template_tools.py", line 39, in <module>
+    import em
+ImportError: No module named 'em'
+CMakeFiles/tf2_msgs_generate_messages_cpp.dir/build.make:76: recipe for target '/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/tf2_msgs/include/tf2_msgs/TFMessage.h' failed
+make[2]: *** [/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/tf2_msgs/include/tf2_msgs/TFMessage.h] Error 1
+make[2]: *** Waiting for unfinished jobs....
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/share/gencpp/cmake/../../../lib/gencpp/gen_cpp.py", line 41, in <module>
+    import genmsg.template_tools
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/genmsg/template_tools.py", line 39, in <module>
+    import em
+ImportError: No module named 'em'
+[  9%] [34m[1mGenerating Javascript code from tf2_msgs/LookupTransformActionResult.msg[0m
+CMakeFiles/tf2_msgs_generate_messages_cpp.dir/build.make:96: recipe for target '/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/tf2_msgs/include/tf2_msgs/LookupTransformAction.h' failed
+CMakeFiles/Makefile2:824: recipe for target 'CMakeFiles/tf2_msgs_generate_messages_cpp.dir/all' failed
+make[2]: *** [/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/tf2_msgs/include/tf2_msgs/LookupTransformAction.h] Error 1
+make[1]: *** [CMakeFiles/tf2_msgs_generate_messages_cpp.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 11%] [34m[1mGenerating Javascript code from tf2_msgs/LookupTransformGoal.msg[0m
+[ 13%] [34m[1mGenerating Javascript code from tf2_msgs/LookupTransformActionFeedback.msg[0m
+[ 15%] [34m[1mGenerating Javascript code from tf2_msgs/LookupTransformActionGoal.msg[0m
+[ 16%] [34m[1mGenerating Javascript code from tf2_msgs/LookupTransformResult.msg[0m
+[ 18%] [34m[1mGenerating Javascript code from tf2_msgs/LookupTransformFeedback.msg[0m
+[ 20%] [34m[1mGenerating Javascript code from tf2_msgs/TF2Error.msg[0m
+[ 22%] [34m[1mGenerating Javascript code from tf2_msgs/FrameGraph.srv[0m
+[ 22%] Built target tf2_msgs_generate_messages_nodejs
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

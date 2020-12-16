@@ -1,0 +1,1 @@
+/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/tf2_geometry_msgs/share/tf2_geometry_msgs/cmake/tf2_geometry_msgsConfig-version.cmake

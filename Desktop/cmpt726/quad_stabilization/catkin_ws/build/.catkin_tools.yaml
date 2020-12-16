@@ -1,0 +1,6 @@
+devel_space: /home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel
+install: false
+install_space: /home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/install
+profile: default
+source_space: /home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/src
+workspace: /home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws

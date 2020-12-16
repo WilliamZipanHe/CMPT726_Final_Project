@@ -1,0 +1,1 @@
+/home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/tf_conversions/lib/pkgconfig/tf_conversions.pc

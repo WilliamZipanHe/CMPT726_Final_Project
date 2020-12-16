@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zipanhe/Desktop/cmpt726/quad_stabilization/catkin_ws/devel/.private/tf2_kdl/setup.sh
